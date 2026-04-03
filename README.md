@@ -41,8 +41,6 @@ cargo build
 cargo test
 
 ## SENTINEL IDE 
-<img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/f0f7b249-f330-4764-a9e2-f1b9b96a339e" />
-
 <img width="2550" height="1365" alt="image" src="https://github.com/user-attachments/assets/5031c316-27d2-4d7f-8c13-d85ae16b967b" />
 
 <img width="2555" height="1355" alt="image" src="https://github.com/user-attachments/assets/2f6c8d85-8cca-4ef2-95bc-d0287f0b7739" />
