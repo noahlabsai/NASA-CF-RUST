@@ -47,6 +47,8 @@ cargo test
 
 <img width="2555" height="1355" alt="image" src="https://github.com/user-attachments/assets/2f6c8d85-8cca-4ef2-95bc-d0287f0b7739" />
 
+<img width="1400" height="1531" alt="sentinel" src="https://github.com/user-attachments/assets/ff29390a-cfe8-4cb8-b52f-6cccc32cf3f5" />
+
 <img width="1943" height="1070" alt="image" src="https://github.com/user-attachments/assets/059c9c46-2dd5-45aa-b5f9-3ccdc3fb59b8" />
 
 
