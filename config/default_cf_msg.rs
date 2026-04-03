@@ -1,0 +1,3 @@
+pub const CF_COMPOUND_KEY: u32 = 254;
+pub const CF_ALL_CHANNELS: u32 = 255;
+pub const CF_ALL_POLLDIRS: u32 = CF_ALL_CHANNELS;

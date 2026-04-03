@@ -1,0 +1,1 @@
+pub const CFE_MISSION_CF_TIDVAL: fn(&str) -> String = |x| format!("EdsParam_CFE_MISSION_CF_{}_TOPICID", x);
