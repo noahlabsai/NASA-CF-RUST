@@ -43,4 +43,6 @@ cargo test
 ## SENTINEL IDE 
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/f0f7b249-f330-4764-a9e2-f1b9b96a339e" />
 
+<img width="2550" height="1337" alt="image" src="https://github.com/user-attachments/assets/0b767e1e-df45-4313-a6a6-cf4d79228a42" />
+
 
