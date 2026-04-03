@@ -1,0 +1,12 @@
+[package]
+name = "cf"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "fsw/src/lib.rs"
+
+[features]
+cf_debug_build = []
+
+[dependencies]
