@@ -39,3 +39,8 @@ The original C source code can be found at: https://github.com/nasa/CF
 
 cargo build
 cargo test
+
+## SENTINEL IDE 
+<img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/f0f7b249-f330-4764-a9e2-f1b9b96a339e" />
+
+
